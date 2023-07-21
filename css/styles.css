@@ -1,0 +1,46 @@
+.color-red {
+    color: red;
+}
+
+#color-green {
+    color: green;
+}
+
+.bg-green {
+    width: 200px;
+    height: 100px;
+    background-color: green;
+}
+
+.bg-img {
+    width: 100%;
+    height: 200px;
+    background-size: 100%;
+    background-image: url(../images/coding.jfif);
+    background-attachment: fixed;
+}
+
+.box-green {
+    color: white;
+    text-align: center;
+    padding: 30px;
+    background-color: green;
+    border: 5px solid black;
+}
+
+.box-red {
+    color: white;
+    text-align: right;
+    margin-top: 20px;
+    padding: 30px;
+    background-color: red;
+    background-clip: padding-box;
+    border: 10px dashed lightgray;
+}
+
+.font {
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
